@@ -4,7 +4,3 @@ void solve() {
     int res =  a++ + ++a + a++
     printf("%d", res);
 }
-int main() {
-	solve();
-	return 0;
-}
