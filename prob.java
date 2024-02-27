@@ -10,8 +10,8 @@ public int zoho(String str1, String str2) {
     return num;
 }
 
-// // Example usage:
-// String str1 = "ZohoForLife";
-// String str2 = "HappyWorkHappyLife";
-// int result = zoho(str1, str2);
-// System.out.println(result);
+// Example usage:
+String str1 = "ZohoForLife";
+String str2 = "HappyWorkHappyLife";
+int result = zoho(str1, str2);
+System.out.println(result);
